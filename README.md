@@ -1,2 +1,2 @@
 # demogit-exercice
-Un exercice
+Un exercice sur openclassroom
