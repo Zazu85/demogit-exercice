@@ -1,2 +1,4 @@
 # demogit-exercice
-Un exercice sur openclassroom
+Un exercice sur openclassroo
+
+Et maintenant on modifie depuis github
